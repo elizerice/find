@@ -1,0 +1,114 @@
+
+.background {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+#fire {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0 200px;
+
+}
+
+#tent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 460px 0 10px 380px;
+}
+
+#flashlight {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 580px 0 0px 1080px;
+}
+#bear{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 480px 0px 0px 970px;
+}
+#backpack{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 580px 0 0px 80px;
+}
+
+#boots{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 750px 0 0px 330px;
+	}
+#chair{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 460px 0 0px 100px;
+	}
+#compass{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 560px 0 0px 70px;
+	}
+#first-aid{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 780px 0 0px 50px;
+	}
+#hiking-sticks{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 500px 0 0px 20px;
+	}
+#matches{
+	position: absolute;
+    top: 0;
+    left: 0;
+	margin: 680px 0 0px 390px;
+	}
+	
+#rope{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 660px 0 0px 280px;
+	}
+#sleeping-bag{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 650px 0 0px 880px;
+	}
+#termos{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 530px 0 0px 280px;
+	}
+#car{
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin: 400px 0 0px 650px;
+	}
+
+
+#message {
+    position: absolute;
+    font-family: "Times New Roman", Times, serif;
+    background-color: black;
+    color: white;
+    font-size: 20pt;	
+    top: 0;
+    left: 0;
+    margin: 100px 0 0 450px;
+}
