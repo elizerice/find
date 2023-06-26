@@ -94,7 +94,7 @@ const addEventListener = () => {
 
 			this.style.opacity = '0';
 			this.style.transition = '0.5s';
-
+			var elClone = this.cloneNode(true); this.parentNode.replaceChild(elClone, this);
 			++currentIndex;
 
 			addEventListener();
